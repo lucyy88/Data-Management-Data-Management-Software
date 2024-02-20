@@ -5,10 +5,13 @@
 
 This project aims to establish a Data Management Plan (DMP) for AI education research, adhering to Data Documentation Initiative (DDI) standards. 
 
+## Creator: Lucy Yang  
 
 
 ## Description
 It focuses on leveraging RSpace and DMPTool for optimal data management, ensuring accurate, transparent, and ethical handling of data. Objectives include creating a standardized DMP, implementing DDI for comprehensive data documentation, and promoting best data management practices. The approach emphasizes secure data storage, ethical data use, and open access, aiming to enhance discoverability, interoperability, and reuse of data in AI education. This endeavor seeks to foster a culture of openness and collaboration in the research community.
+
+## Location: Teachers College
 
 ## Table of Contents
 
