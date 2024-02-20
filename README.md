@@ -11,7 +11,12 @@ This project aims to establish a Data Management Plan (DMP) for AI education res
 ## Description
 It focuses on leveraging RSpace and DMPTool for optimal data management, ensuring accurate, transparent, and ethical handling of data. Objectives include creating a standardized DMP, implementing DDI for comprehensive data documentation, and promoting best data management practices. The approach emphasizes secure data storage, ethical data use, and open access, aiming to enhance discoverability, interoperability, and reuse of data in AI education. This endeavor seeks to foster a culture of openness and collaboration in the research community.
 
-## Location: Teachers College
+## Information about data files
+https://www.kaggle.com/datasets/gianinamariapetrascu/survey-on-students-perceptions-of-ai-in-education?resource=download  
+Location: Kaggle  
+Usability: 10.00  
+License: Data files © Original Authors  
+Subject: Business, Arts and Entertainment, Education, Social Science, Data Analytics, Artificial Intelligence
 
 ## Table of Contents
 
