@@ -25,10 +25,11 @@ It focuses on leveraging RSpace and DMPTool for optimal data management, ensurin
 
 Before starting, ensure you have Node.js and npm installed on your system. If not, you can download and install them from [Node.js official website](https://nodejs.org/).
 
-Step 1: Clone the Repository
-Step 2: Install Dependencies
-Step 3: Run the Project
+Step 1: Clone the Repository  
 
+Step 2: Install Dependencies  
+
+Step 3: Run the Project  
 
 ## Data Management Plans
 Overview: Describe the overall approach to managing data in project, referencing DMPTool or RSpace as appropriate.  
@@ -45,6 +46,8 @@ Ethical Considerations: Discuss any ethical considerations in your data manageme
 We welcome contributions from the community; please feel free to submit issues, pull requests, or enhancements directly through GitHub.
 
 ## License
+![GitHub License](https://img.shields.io/github/license/mashape/apistatus)  
+
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Contact 
