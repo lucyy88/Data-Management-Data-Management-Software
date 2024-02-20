@@ -1,6 +1,6 @@
 <img width="342" alt="Screenshot 2024-02-19 at 23 11 37" src="https://github.com/lucyy88/Data-Management-Software/assets/160563186/635aae09-2264-4b0f-949f-6e96bfed549d">
 
-# Project Title: AI Education Data Management
+#  AI Education Data Management
 This project aims to establish a Data Management Plan (DMP) for AI education research, adhering to Data Documentation Initiative (DDI) standards. 
 
 ## Description
