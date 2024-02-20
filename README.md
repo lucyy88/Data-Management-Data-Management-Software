@@ -1,7 +1,11 @@
 <img width="342" alt="Screenshot 2024-02-19 at 23 11 37" src="https://github.com/lucyy88/Data-Management-Software/assets/160563186/635aae09-2264-4b0f-949f-6e96bfed549d">
 
 #  AI Education Data Management
+![GitLab Last Commit](https://img.shields.io/gitlab/last-commit/gitlab-org%2Fgitlab)
+
 This project aims to establish a Data Management Plan (DMP) for AI education research, adhering to Data Documentation Initiative (DDI) standards. 
+
+
 
 ## Description
 It focuses on leveraging RSpace and DMPTool for optimal data management, ensuring accurate, transparent, and ethical handling of data. Objectives include creating a standardized DMP, implementing DDI for comprehensive data documentation, and promoting best data management practices. The approach emphasizes secure data storage, ethical data use, and open access, aiming to enhance discoverability, interoperability, and reuse of data in AI education. This endeavor seeks to foster a culture of openness and collaboration in the research community.
