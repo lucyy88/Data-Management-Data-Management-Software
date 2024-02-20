@@ -14,6 +14,7 @@ It focuses on leveraging RSpace and DMPTool for optimal data management, ensurin
 ## Information about data files
 https://www.kaggle.com/datasets/gianinamariapetrascu/survey-on-students-perceptions-of-ai-in-education?resource=download  
 Location: Kaggle  
+Date: 6.2023  
 Usability: 10.00  
 License: Data files © Original Authors  
 Subject: Business, Arts and Entertainment, Education, Social Science, Data Analytics, Artificial Intelligence  
@@ -60,7 +61,7 @@ We welcome contributions from the community; please feel free to submit issues, 
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Contact 
-ly2615@tc.columbia.edu
+ly2615@tc.columbia.edu  
 Teachers College
 
 
