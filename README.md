@@ -16,7 +16,8 @@ https://www.kaggle.com/datasets/gianinamariapetrascu/survey-on-students-percepti
 Location: Kaggle  
 Usability: 10.00  
 License: Data files © Original Authors  
-Subject: Business, Arts and Entertainment, Education, Social Science, Data Analytics, Artificial Intelligence
+Subject: Business, Arts and Entertainment, Education, Social Science, Data Analytics, Artificial Intelligence  
+Format: csv
 
 ## Table of Contents
 
