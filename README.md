@@ -13,11 +13,18 @@ It focuses on leveraging RSpace and DMPTool for optimal data management, ensurin
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
-- [Usage](#usage)
+
 
 ![carbon (2)](https://github.com/lucyy88/Data-Management-Software/assets/160563186/c8fb04a1-8452-48bc-91d5-37daa8145437)
 
 ## Installation
+
+Before starting, ensure you have Node.js and npm installed on your system. If not, you can download and install them from [Node.js official website](https://nodejs.org/).
+
+Step 1: Clone the Repository
+Step 2: Install Dependencies
+Step 3: Run the Project
+
 
 ## Data Management Plans
 Overview: Describe the overall approach to managing data in project, referencing DMPTool or RSpace as appropriate.  
@@ -29,7 +36,6 @@ Data Storage and Preservation: Outline your strategies for data storage, backup,
 Data Sharing and Accessibility: Explain how and where your data will be shared, ensuring it follows DDI's guidelines for accessibility and reuse.  
 
 Ethical Considerations: Discuss any ethical considerations in your data management, especially concerning AI education data.
-Contributing
 
 ## Contributing
 We welcome contributions from the community; please feel free to submit issues, pull requests, or enhancements directly through GitHub.
@@ -37,31 +43,8 @@ We welcome contributions from the community; please feel free to submit issues, 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-## Contact
+## Contact 
 ly2615@tc.columbia.edu
-
-## Usage
-
-After installing the project, you can use it to perform arithmetic operations such as addition, subtraction, multiplication, and division. Here's how you can use the library in your Python scripts:
-
-```python
-from arithmetic_lib import add, subtract, multiply, divide
-
-# Perform addition
-result_add = add(5, 3)
-print(f"5 + 3 = {result_add}")
-
-# Perform subtraction
-result_subtract = subtract(10, 2)
-print(f"10 - 2 = {result_subtract}")
-
-# Perform multiplication
-result_multiply = multiply(4, 6)
-print(f"4 * 6 = {result_multiply}")
-
-# Perform division
-result_divide = divide(20, 5)
-print(f"20 / 5 = {result_divide}")
-
+Teachers College
 
 
